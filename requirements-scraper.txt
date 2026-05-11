@@ -1,0 +1,5 @@
+# Only needed locally to scrape the catalog
+# Run: pip install -r requirements-scraper.txt
+playwright>=1.40.0
+requests==2.32.3
+beautifulsoup4==4.12.3

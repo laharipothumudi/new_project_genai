@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+traces/
+# Do NOT ignore catalog files — Railway needs them at runtime
+# catalog.json
+# catalog_index.pkl
